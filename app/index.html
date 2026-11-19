@@ -1,25 +1,87 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>GTA VI trophy checklist</title>
+<meta name="description" content="Offline guide and tracker for all 55 GTA VI PlayStation 5 trophies: official names, descriptions and grades, cited guides, a six-stage road to the platinum, missable flags, and a checklist saved in your browser.">
+<title>Leonida Trophy Guide — GTA VI (55 PS5 Trophies)</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header>
-  <h1>GTA VI trophy checklist</h1>
-  <p id="progress">0 of 55 earned</p>
+<header class="hero">
+  <div class="hero-inner">
+    <p class="eyebrow">Grand Theft Auto VI &middot; PlayStation 5 &middot; Offline guide &amp; tracker</p>
+    <h1>Leonida Trophy Guide</h1>
+    <p class="tagline">Every one of the 55 official PlayStation trophies — 1 platinum, 2 gold, 6 silver, 46 bronze, 28 hidden — with a guide, its sources, a road to the platinum, and a checklist that remembers your progress.</p>
+    <div class="progress-wrap" aria-label="Trophy progress">
+      <div class="progress-top"><span id="progress-count">0 / 55 earned</span><span id="progress-pct">0%</span></div>
+      <div class="progress-bar"><div id="progress-fill" class="progress-fill" style="width:0%"></div></div>
+      <p class="progress-sub" id="progress-sub">Platinum progress: 0 of 54 trophies toward Vice Got a Price!</p>
+    </div>
+    <p class="fine">Official list as published by PlayStation, as listed by Exophase and PSNProfiles. No online trophies: every trophy is single-player. Cheats disable trophies. The story alone takes around 60 hours; the platinum is long, not hard — roughly 200 hours is the press estimate.</p>
+  </div>
 </header>
-<div class="controls">
-  <label>Grade <select id="grade"><option value="all">All</option><option value="platinum">Platinum</option><option value="gold">Gold</option><option value="silver">Silver</option><option value="bronze">Bronze</option></select></label>
-  <button id="export" type="button">Export progress</button>
-  <label class="import">Import progress <input id="import" type="file" accept="application/json"></label>
-</div>
-<table>
-  <thead><tr><th>Earned</th><th>Trophy</th><th>Grade</th><th>How to get it</th></tr></thead>
-  <tbody id="rows"></tbody>
-</table>
-<script type="module" src="app.js"></script>
+
+<main>
+  <section class="controls" aria-label="Controls">
+    <label class="control search">Search
+      <input id="search" type="search" placeholder="Search a trophy name, description or guide…" autocomplete="off">
+    </label>
+    <label class="control">Kind
+      <select id="filter-kind">
+        <option value="all">All kinds</option>
+        <option value="story">Story</option>
+        <option value="missable">Missable</option>
+        <option value="collectibles">Collectibles</option>
+        <option value="activities">Activities</option>
+        <option value="online">Online (none)</option>
+      </select>
+    </label>
+    <label class="control">Grade
+      <select id="filter-grade">
+        <option value="all">All grades</option>
+        <option value="platinum">Platinum</option>
+        <option value="gold">Gold</option>
+        <option value="silver">Silver</option>
+        <option value="bronze">Bronze</option>
+      </select>
+    </label>
+    <label class="control check"><input id="spoiler-toggle" type="checkbox" checked> Spoilers on — hide story trophies until earned</label>
+    <div class="control buttons">
+      <button id="export-btn" type="button">Export progress</button>
+      <button id="import-btn" type="button">Import progress</button>
+      <input id="import-file" type="file" accept="application/json,.json" hidden>
+      <button id="demo-btn" type="button">Load demo profile</button>
+    </div>
+    <p id="import-msg" class="msg" role="status"></p>
+  </section>
+
+  <section class="roadmap" id="roadmap" aria-label="Roadmap to the platinum">
+    <h2>Road to the Platinum</h2>
+    <p class="section-intro">Six stages, in order. Story first, then the 100% gold, collectibles, activities, money and property, and a final cleanup of the missables and one-offs.</p>
+    <ol id="roadmap-list" class="roadmap-list"></ol>
+  </section>
+
+  <section class="missables" id="missables" aria-label="Missable trophies">
+    <h2>Missable Trophies — Read This First</h2>
+    <p class="section-intro">The game has no mission replay and no New Game Plus at launch, so every one-shot story moment is effectively missable. Keep a manual save at the start of every chapter and one before the final mission. Every flag below is labelled “treat as missable until confirmed” where its window is not confirmed. The one confirmed case: a Chapter 1 meditation spot can be lost after that chapter.</p>
+    <ul id="missable-list" class="missable-list"></ul>
+  </section>
+
+  <section class="list-section" aria-label="Trophy checklist">
+    <h2>Trophy Checklist <span id="list-count" class="list-count"></span></h2>
+    <p class="section-intro">Tick a trophy when you earn it — progress saves in this browser automatically. Click any trophy to open its full guide and sources.</p>
+    <div id="trophy-list" class="trophy-list"></div>
+    <p id="empty-msg" class="empty" hidden>No trophies match these filters. Try clearing the search or a filter.</p>
+  </section>
+
+  <section class="about" aria-label="About this guide">
+    <h2>About the list</h2>
+    <p>55 trophies: 1 platinum, 2 gold, 6 silver, 46 bronze; 28 hidden on PlayStation until earned. Names, descriptions and grades are quoted exactly as PlayStation publishes them. Guides are written in our own words for this guide, and each one names its sources beside it. Sources: the official PlayStation list as listed by Exophase and PSNProfiles (cross-checked with TrueAchievements); planetgta6.com/en/gta-6-trophies/; outputlag.com/guides/gta-6-trophy-list/; gtavicecityhub.com/achievements; leonidahub.org/en/news/gta-vi-reportedly-has-55-ps5-trophies-platinum-included-as-xbox-and-playstation-data-line-up. Series mechanics that carry over from GTA V cite the PSNProfiles and PowerPyx GTA V trophy guides by name. This guide is unofficial, uses no Rockstar logo or official artwork, and works fully offline.</p>
+  </section>
+</main>
+
+<footer><p>Leonida Trophy Guide — an unofficial fan-made guide. Grand Theft Auto and GTA are trademarks of Rockstar Games. Works offline; progress is stored only in your browser.</p></footer>
+<script src="app.js"></script>
 </body>
 </html>

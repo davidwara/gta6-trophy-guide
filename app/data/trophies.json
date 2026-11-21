@@ -1,9 +1,26 @@
 {
   "game": "Grand Theft Auto VI",
   "platform": "PlayStation 5",
-  "title": "Leonida Trophy Guide",
-  "summary": "All 55 official PlayStation 5 trophies: 1 platinum, 2 gold, 6 silver, 46 bronze, 28 hidden. Every trophy has its official name, description and grade, a guide in our own words, its sources, a roadmap stage, and a missable flag where it applies. There are no online trophies: every trophy is single-player.",
-  "sourcesNote": "Official names, descriptions and grades are taken from the official PlayStation list as listed by Exophase and PSNProfiles and cross-checked with TrueAchievements. Guide facts cite the sources named beside each trophy: planetgta6.com/en/gta-6-trophies/, outputlag.com/guides/gta-6-trophy-list/, gtavicecityhub.com/achievements, and leonidahub.org/en/news/gta-vi-reportedly-has-55-ps5-trophies-platinum-included-as-xbox-and-playstation-data-line-up. Series mechanics that carry over from GTA V cite the PSNProfiles and PowerPyx GTA V trophy guides by name.",
+  "list": "The official 55 trophies: 1 platinum, 2 gold, 6 silver, 46 bronze, 28 hidden",
+  "notes": [
+    "Every trophy is single-player. There are no online trophies at launch.",
+    "The game has no mission replay and no New Game Plus (reported at launch), so every one-shot story moment is effectively missable. Keep a manual save at the start of every chapter and one before the final mission.",
+    "Cheats disable trophies (reported by PowerPyx; Rockstar Support confirmed the same rule for GTA V).",
+    "The story alone takes around 60 hours; the platinum is long, not hard, at roughly 200 hours (press estimates).",
+    "Rockstar has not spelled out what 100% completion covers, so this guide says so honestly instead of inventing a checklist."
+  ],
+  "sources": [
+    "Exophase PS5 trophy listing (official names, descriptions and grades)",
+    "PSNProfiles PS5 trophy listing (official names, descriptions and grades)",
+    "TrueAchievements list (cross-check of names, descriptions and grades)",
+    "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/",
+    "Output Lag trophy list: https://outputlag.com/guides/gta-6-trophy-list/",
+    "Vice City Hub achievements: https://gtavicecityhub.com/achievements",
+    "Leonida Hub report: https://leonidahub.org/en/news/gta-vi-reportedly-has-55-ps5-trophies-platinum-included-as-xbox-and-playstation-data-line-up",
+    "PowerPyx GTA VI trophy guide (cheats disable trophies; no mission replay)",
+    "PSNProfiles GTA V trophy guide (series mechanics that carry over from GTA V)",
+    "PowerPyx GTA V trophy guide (series mechanics that carry over from GTA V)"
+  ],
   "trophies": [
     {
       "id": 1,
@@ -11,12 +28,12 @@
       "description": "Congratulations! You're a Leonida Legend.",
       "grade": "platinum",
       "hidden": false,
-      "kind": "story",
+      "kind": "activities",
       "missable": false,
-      "missableNote": null,
+      "missable_note": null,
       "stage": 6,
-      "guide": "The platinum pops the moment the other 54 trophies are earned, so there is no separate task to do for it. Treat it as the finish line of the six roadmap stages below: story first, then 100% completion, collectibles, activities, money and property, and finally the missable cleanup. Press reports put the whole road at roughly 200 hours, long rather than hard, so pace it in stages instead of rushing. Cheats disable trophies, so keep cheats off for the whole run.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/", "PowerPyx GTA V trophy guide — cheats disable trophies"]
+      "guide": "Earn the other 54 trophies and the platinum pops on its own. It is a marathon, not a skill wall: the press estimate is roughly 200 hours, most of it story, collectibles and cleanup. Work the roadmap in order, story first, then collectibles and activities, then money and property, and keep a manual save at the start of every chapter so a missed one-off never costs a full replay.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "Leonida Hub report: https://leonidahub.org/en/news/gta-vi-reportedly-has-55-ps5-trophies-platinum-included-as-xbox-and-playstation-data-line-up"]
     },
     {
       "id": 2,
@@ -26,10 +43,10 @@
       "hidden": true,
       "kind": "story",
       "missable": true,
-      "missableNote": "Opening mission Gone Fishing. Treat as missable until confirmed: the game has no mission replay and no New Game Plus at launch, so keep a manual save before starting it.",
+      "missable_note": "Opening mission Gone Fishing: a one-shot story moment. No mission replay is reported at launch, so keep a manual save before starting.",
       "stage": 1,
-      "guide": "Play the opening mission Gone Fishing to the end. It is the first story mission, so it unlocks naturally as you follow the opening beats; do not skip its cutscenes or objectives. Because there is no mission replay at launch, make a manual save before you start the mission, just in case a one-off moment inside it is needed later.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/", "leonidahub.org/en/news/gta-vi-reportedly-has-55-ps5-trophies-platinum-included-as-xbox-and-playstation-data-line-up — no mission replay reported"]
+      "guide": "Play the opening mission Gone Fishing through to its end and the trophy pops when the mission completes. It is the game's first story beat, so there is nothing to prepare. Treat it as missable: with no mission replay reported at launch, a missed story moment means an earlier manual save or a new playthrough.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/", "PowerPyx GTA VI trophy guide"]
     },
     {
       "id": 3,
@@ -39,10 +56,10 @@
       "hidden": true,
       "kind": "story",
       "missable": true,
-      "missableNote": "Chapter 1. Treat as missable until confirmed: no mission replay at launch, so keep a manual save at the start of the chapter. One meditation spot in Chapter 1 can be lost after the chapter ends.",
+      "missable_note": "Chapter 1 finale: a one-shot story moment. Keep a manual save at the start of Chapter 1.",
       "stage": 1,
-      "guide": "Finish every story mission in Chapter 1. Before the chapter's final mission, make a manual save, because Chapter 1 also holds a meditation spot that can be lost once the chapter ends (see Positive Mental Attitude). Clear the chapter's side content you care about before moving on, then the trophy pops on the chapter's end screen.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/", "gtavicecityhub.com/achievements"]
+      "guide": "Finish every story mission in Chapter 1 and the trophy pops at the chapter's end. Before the finale, visit the Chapter 1 meditation spot: it is the one confirmed missable in the sources and can be lost after this chapter, so do that stop first and then close the chapter.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/"]
     },
     {
       "id": 4,
@@ -52,10 +69,10 @@
       "hidden": true,
       "kind": "story",
       "missable": true,
-      "missableNote": "Chapter 2. Treat as missable until confirmed: no mission replay at launch, so keep a manual save at the start of the chapter.",
+      "missable_note": "Chapter 2 finale: a one-shot story moment. Keep a manual save at the start of Chapter 2.",
       "stage": 1,
-      "guide": "Finish every story mission in Chapter 2. Make a manual save at the start of the chapter and another before its final mission, because there is no mission replay to redo a missed one-off moment. Work through the missions in order; the trophy pops when the chapter closes.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/"]
+      "guide": "Finish every story mission in Chapter 2 and the trophy pops at the chapter's end. Play the missions in order and keep a manual save from the start of the chapter, since story moments cannot be replayed once the chapter closes.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/"]
     },
     {
       "id": 5,
@@ -65,10 +82,10 @@
       "hidden": true,
       "kind": "story",
       "missable": true,
-      "missableNote": "Chapter 3. Treat as missable until confirmed: no mission replay at launch, so keep a manual save at the start of the chapter.",
+      "missable_note": "Chapter 3 finale: a one-shot story moment. Keep a manual save at the start of Chapter 3.",
       "stage": 1,
-      "guide": "Finish every story mission in Chapter 3. Keep the habit from earlier chapters: a manual save at the chapter start and one before the final mission. The trophy pops when the chapter ends, and the story then moves into Chapter 4.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/"]
+      "guide": "Finish every story mission in Chapter 3 and the trophy pops at the chapter's end. The chapter moves the story into Vice City itself, so expect new activities to open up along the way; finish the story missions first and mop up the side content after.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/"]
     },
     {
       "id": 6,
@@ -78,10 +95,10 @@
       "hidden": true,
       "kind": "story",
       "missable": true,
-      "missableNote": "Chapter 4. Treat as missable until confirmed: no mission replay at launch, so keep a manual save at the start of the chapter and one before the final mission.",
+      "missable_note": "Chapter 4 finale: a one-shot story moment. Keep a manual save at the start of Chapter 4.",
       "stage": 1,
-      "guide": "Finish every story mission in Chapter 4. Before the chapter's final mission, make a fresh manual save — it doubles as your safety net for the final mission trophy that follows. The trophy pops when Chapter 4 closes.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/"]
+      "guide": "Finish every story mission in Chapter 4 and the trophy pops at the chapter's end. This is the last chapter before the finale, so it is the last good moment to clear open stranger strands and activities before the endgame.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/"]
     },
     {
       "id": 7,
@@ -91,10 +108,10 @@
       "hidden": true,
       "kind": "story",
       "missable": true,
-      "missableNote": "The final mission. Treat as missable until confirmed: no mission replay at launch, so keep a manual save right before it.",
+      "missable_note": "Final mission: a one-shot story moment. Keep a manual save before starting it.",
       "stage": 1,
-      "guide": "Play the final mission to its end. Make a manual save immediately before starting it, because there is no mission replay and no New Game Plus at launch to redo it. Finish the mission and this gold trophy pops; the story trophies are then done except for any stranger finales you still owe.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/", "leonidahub.org/en/news/gta-vi-reportedly-has-55-ps5-trophies-platinum-included-as-xbox-and-playstation-data-line-up — no mission replay reported"]
+      "guide": "Complete the final mission and the gold pops when it ends. Make a manual save before you start it: it is the last story moment in the game and there is no mission replay to fall back on. After it, free roam stays open for the cleanup stages of this guide.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/", "PowerPyx GTA VI trophy guide"]
     },
     {
       "id": 8,
@@ -104,12 +121,11 @@
       "hidden": true,
       "kind": "story",
       "missable": true,
-      "missableNote": "Story mission Breakfast Run. Treat as missable until confirmed: no mission replay at launch, so keep a manual save before the mission.",
+      "missable_note": "Mission Breakfast Run: a one-shot story moment. Keep a manual save before the mission.",
       "stage": 1,
-      "guide": "Complete the story mission Breakfast Run. It appears in the story flow, so follow the mission marker when it shows up and play it through to the end. Save manually before starting it, since a missed one-off inside a story mission cannot be replayed at launch.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/"]
-    }
-    ,
+      "guide": "Complete the story mission Breakfast Run. Named story missions pop their trophy the moment the mission ends. Because there is no mission replay, keep a manual save from before the mission in case anything in it goes sideways.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "Output Lag trophy list: https://outputlag.com/guides/gta-6-trophy-list/"]
+    },
     {
       "id": 9,
       "name": "Break the Bank",
@@ -118,10 +134,10 @@
       "hidden": true,
       "kind": "story",
       "missable": true,
-      "missableNote": "Story mission The Cartel Heist. Treat as missable until confirmed: no mission replay at launch, so keep a manual save before the mission.",
+      "missable_note": "Mission The Cartel Heist: a one-shot story moment. Keep a manual save before the mission.",
       "stage": 1,
-      "guide": "Complete the story mission The Cartel Heist. It is a heist set-piece in the story flow: follow its planning beats, then play the heist itself through to the escape. Make a manual save before it starts, since story missions cannot be replayed at launch.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/"]
+      "guide": "Complete the story mission The Cartel Heist. It is one of the big set-piece heists of the story, and its trophy pops when the mission ends. Stock up on armour and ammo before you start, and keep a manual save from before the mission.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "Output Lag trophy list: https://outputlag.com/guides/gta-6-trophy-list/"]
     },
     {
       "id": 10,
@@ -131,10 +147,10 @@
       "hidden": true,
       "kind": "story",
       "missable": true,
-      "missableNote": "Story mission Child's Play. Treat as missable until confirmed: no mission replay at launch, so keep a manual save before the mission.",
+      "missable_note": "Mission Child's Play: a one-shot story moment. Keep a manual save before the mission.",
       "stage": 1,
-      "guide": "Complete the story mission Child's Play. Follow the mission marker when it appears in the story and play it to the end. Save manually beforehand, because there is no mission replay at launch.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/"]
+      "guide": "Complete the story mission Child's Play. Its trophy pops when the mission ends. Like every named story mission, it cannot be replayed, so keep a manual save from before it starts.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "Output Lag trophy list: https://outputlag.com/guides/gta-6-trophy-list/"]
     },
     {
       "id": 11,
@@ -144,10 +160,10 @@
       "hidden": true,
       "kind": "story",
       "missable": true,
-      "missableNote": "Story mission Headliners. Treat as missable until confirmed: no mission replay at launch, so keep a manual save before the mission.",
+      "missable_note": "Mission Headliners: a one-shot story moment. Keep a manual save before the mission.",
       "stage": 1,
-      "guide": "Complete the story mission Headliners. It unlocks in the story flow; follow its marker and play it through. Make a manual save before starting, since story missions cannot be replayed at launch.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/"]
+      "guide": "Complete the story mission Headliners. Its trophy pops when the mission ends. Keep a manual save from before the mission, as with every named story mission in this guide.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "Output Lag trophy list: https://outputlag.com/guides/gta-6-trophy-list/"]
     },
     {
       "id": 12,
@@ -157,10 +173,10 @@
       "hidden": true,
       "kind": "story",
       "missable": true,
-      "missableNote": "Story mission VCIA Takedown. Treat as missable until confirmed: no mission replay at launch, so keep a manual save before the mission.",
+      "missable_note": "Mission VCIA Takedown: a one-shot story moment. Keep a manual save before the mission.",
       "stage": 1,
-      "guide": "Complete the story mission VCIA Takedown, the airport takedown in the story flow. Follow the mission marker, play the takedown through to its end, and save manually before it starts, since there is no mission replay at launch.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/"]
+      "guide": "Complete the story mission VCIA Takedown at Vice City International Airport. Its trophy pops when the mission ends. Keep a manual save from before the mission, since airport story moments cannot be replayed.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "Output Lag trophy list: https://outputlag.com/guides/gta-6-trophy-list/"]
     },
     {
       "id": 13,
@@ -170,10 +186,10 @@
       "hidden": true,
       "kind": "story",
       "missable": true,
-      "missableNote": "Story mission Operation Savage Glory. Treat as missable until confirmed: no mission replay at launch, so keep a manual save before the mission.",
+      "missable_note": "Mission Operation Savage Glory: a one-shot story moment. Keep a manual save before the mission.",
       "stage": 1,
-      "guide": "Complete the story mission Operation Savage Glory. It is one of the named story missions in the flow; follow its marker and play it to the end. Save manually beforehand, because story missions cannot be replayed at launch.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/"]
+      "guide": "Complete the story mission Operation Savage Glory. Its trophy pops when the mission ends. It is the last of the six named story missions in this guide, so finishing it closes out the named-mission set.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "Output Lag trophy list: https://outputlag.com/guides/gta-6-trophy-list/"]
     },
     {
       "id": 14,
@@ -183,11 +199,12 @@
       "hidden": false,
       "kind": "activities",
       "missable": false,
-      "missableNote": null,
+      "missable_note": null,
       "stage": 2,
-      "guide": "Reach 100% completion. Rockstar has not spelled out what 100% completion covers, so do not trust an invented checklist: finish the story, then work through the game's own completion counters — stranger strands, collectibles, activities and the rest of this guide — and check the in-game stats screen as you go. This is the second gold and the longest single grind after the story, so leave it for stage 2 of the roadmap, after the story is done.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/", "gtavicecityhub.com/achievements"]
-    },
+      "guide": "Attain 100% completion. Rockstar has not spelled out what 100% covers, so the honest plan is: finish the story, all eight stranger strands, all collectibles, all activities and all property, then check the in-game stats page for what is left. Do not trust any checklist that claims a fixed list Rockstar never published; work from the game's own completion counter instead.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/", "Leonida Hub report: https://leonidahub.org/en/news/gta-vi-reportedly-has-55-ps5-trophies-platinum-included-as-xbox-and-playstation-data-line-up"]
+    }
+,
     {
       "id": 15,
       "name": "Cunning Stunts",
@@ -196,10 +213,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": false,
-      "missableNote": null,
+      "missable_note": null,
       "stage": 4,
-      "guide": "Complete 250 stunts. Stunts are the game's stunt jumps and driving tricks; they count cumulatively across the whole playthrough, so you will bank many of them naturally while driving between missions. For the rest, pick a fast car, find a ramp or jump you can repeat, and grind the remaining count in short sessions — the in-game stats screen tracks your total.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/", "PSNProfiles GTA V trophy guide — stunt counting carries over as a series mechanic"]
+      "guide": "Complete 250 stunts. Stunts are jumps, near misses, long airtime and other driving feats, and the game counts them as you play, so this one grows across a full playthrough on its own. To push it along, chain stunt jumps and long jumps off ramps and hills between missions instead of fast-travelling everywhere.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/"]
     },
     {
       "id": 16,
@@ -209,10 +226,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": false,
-      "missableNote": null,
+      "missable_note": null,
       "stage": 4,
-      "guide": "Try each of the 9 activity types once. The types are the game's side activities — races, shooting range, fishing, arcade games, drone races and the rest — and one try of each is enough, no win needed. Work down the list early in the game so you learn where each activity lives, then the deeper activity trophies in stage 4 build on the same spots.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/"]
+      "guide": "Try each type of activity once: nine types in all. One attempt at each is enough, no win required, so work through the activities list early and tick them off as you find them: races, the shooting range, drone races, fishing, the arcade, and the rest. The trophy pops on the ninth type you try.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/"]
     },
     {
       "id": 17,
@@ -222,10 +239,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": false,
-      "missableNote": null,
+      "missable_note": null,
       "stage": 4,
-      "guide": "Earn a gold medal in all 42 Shooting Range challenges. Visit a shooting range, work through its challenge list one weapon at a time, and repeat any challenge until the gold medal lands — the medal is per challenge, so you can retry freely. Use the range's own scoring feedback to learn each challenge's target pattern, and save the harder weapons for last, when your aim and upgrades are better.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/", "gtavicecityhub.com/achievements"]
+      "guide": "Earn a gold medal in all Shooting Range challenges: 42 challenges per the official listing. Gold each challenge one by one and replay any that fall short until they clear. Take your time on the later challenges and learn each one's target pattern before you chase the gold time.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/"]
     },
     {
       "id": 18,
@@ -235,12 +252,11 @@
       "hidden": false,
       "kind": "activities",
       "missable": false,
-      "missableNote": null,
+      "missable_note": null,
       "stage": 4,
-      "guide": "Win a Top Fun drone race at all 14 locations. Each location has its own race; a win at one does not cover the others, so visit every location on the map and win each race once. Learn the course on a first run, then race it cleanly — cutting corners on the gates costs more time than it saves.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/"]
-    }
-    ,
+      "guide": "Win a Top Fun Drone Race at every location: 14 locations. A win at a location checks it off, so you need one win per spot, not a clean sweep of every race. Fly each course once to learn its line, then race it for the win.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/"]
+    },
     {
       "id": 19,
       "name": "Earn Cash, Not Kudos",
@@ -249,10 +265,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": false,
-      "missableNote": null,
+      "missable_note": null,
       "stage": 4,
-      "guide": "Win 20 different races. The key word is different: winning the same race twenty times does not count, so work through the race list and tick off a new one each time. Pick the fastest car you own for each race type, learn the first corners, and keep a note of which races you have already won.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/"]
+      "guide": "Win 20 different races. Each race counts once, so winning the same race again adds nothing: work through the race list across Leonida and tick off a new one each time. Mix cars, bikes and boats where the race list offers them, since different race types still count toward the twenty.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/"]
     },
     {
       "id": 20,
@@ -262,10 +278,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": true,
-      "missableNote": "Fishing challenge against Cal. Treat as missable until confirmed: the challenge is a one-off meeting, so keep a manual save before it.",
+      "missable_note": "Fishing challenge against Cal: a one-time challenge. Keep a manual save before it; no confirmed window yet.",
       "stage": 4,
-      "guide": "Beat Cal in a fishing challenge. Find Cal at the fishing spot, start the challenge, and out-fish him within its rules — steady reeling beats frantic reeling when a fish fights. Because the challenge is a one-off meeting with no confirmed replay, make a manual save before you start it.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/", "gtavicecityhub.com/achievements"]
+      "guide": "Beat Cal in a fishing challenge. The challenge is a one-off, so keep a manual save before you take it on: no confirmed window exists yet for a retry. Out-fish Cal in the challenge itself and the trophy pops at the result screen.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/"]
     },
     {
       "id": 21,
@@ -275,10 +291,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": false,
-      "missableNote": null,
+      "missable_note": null,
       "stage": 4,
-      "guide": "Complete one arcade game. Walk into an arcade, pick any cabinet, and play it through to its end screen — one completion is all it takes, no high score needed. This is the quickest activity trophy, so do it during your first pass at the activities in stage 4.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/"]
+      "guide": "Complete an arcade game. Find any arcade machine in Leonida, play one game through to its end, and the trophy pops. Pick the shortest game on the machine if you only want the trophy and not the high score.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/"]
     },
     {
       "id": 22,
@@ -288,10 +304,10 @@
       "hidden": true,
       "kind": "story",
       "missable": true,
-      "missableNote": "Final mission for Andy, a stranger strand. Treat as missable until confirmed: no mission replay at launch, so keep a manual save before the finale.",
-      "stage": 1,
-      "guide": "Complete the final mission for Andy, one of the strangers with a mission strand. Follow Andy's strand through its missions until the finale appears, then play it to the end. Save manually before the finale, since stranger finales cannot be replayed at launch.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/", "gtavicecityhub.com/achievements"]
+      "missable_note": "Final mission for Andy: a one-shot stranger finale. Keep a manual save before it.",
+      "stage": 6,
+      "guide": "Complete the final mission for Andy. Stranger strands unlock across Leonida as you explore; play Andy's strand through to its last mission and the trophy pops when it ends. Keep a manual save before the finale: stranger finales are one-shot story moments with no replay.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "Output Lag trophy list: https://outputlag.com/guides/gta-6-trophy-list/"]
     },
     {
       "id": 23,
@@ -301,10 +317,10 @@
       "hidden": true,
       "kind": "story",
       "missable": true,
-      "missableNote": "Final mission for Kenton, a stranger strand. Treat as missable until confirmed: no mission replay at launch, so keep a manual save before the finale.",
-      "stage": 1,
-      "guide": "Complete the final mission for Kenton. Work through Kenton's stranger strand until its finale unlocks, then play it through. Make a manual save before the finale, since there is no mission replay at launch.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/"]
+      "missable_note": "Final mission for Kenton: a one-shot stranger finale. Keep a manual save before it.",
+      "stage": 6,
+      "guide": "Complete the final mission for Kenton. Play Kenton's stranger strand through to its last mission and the trophy pops when it ends. Keep a manual save before the finale, as with every stranger finale in this guide.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "Output Lag trophy list: https://outputlag.com/guides/gta-6-trophy-list/"]
     },
     {
       "id": 24,
@@ -314,10 +330,10 @@
       "hidden": true,
       "kind": "story",
       "missable": true,
-      "missableNote": "Final mission for Billy, a stranger strand. Treat as missable until confirmed: no mission replay at launch, so keep a manual save before the finale.",
-      "stage": 1,
-      "guide": "Complete the final mission for Billy. Follow Billy's stranger strand to its finale and play it to the end. Save manually before the finale, since stranger finales cannot be replayed at launch.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/"]
+      "missable_note": "Final mission for Billy: a one-shot stranger finale. Keep a manual save before it.",
+      "stage": 6,
+      "guide": "Complete the final mission for Billy. Play Billy's stranger strand through to its last mission and the trophy pops when it ends. Keep a manual save before the finale.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "Output Lag trophy list: https://outputlag.com/guides/gta-6-trophy-list/"]
     },
     {
       "id": 25,
@@ -327,10 +343,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": false,
-      "missableNote": null,
+      "missable_note": null,
       "stage": 4,
-      "guide": "Complete 8 mission strands for strangers across Leonida. Strangers appear as markers on the map; each strand is a short chain of missions, and the five stranger finales in this guide (Andy, Kenton, Billy, Randy, Tyrone) are five of the eight. Find the remaining strands by exploring the map and answering stranger markers as they appear, and the silver pops on the eighth completed strand.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/", "gtavicecityhub.com/achievements"]
+      "guide": "Complete 8 mission strands for strangers across the state of Leonida. There are more strands than eight, so finish any eight you like. Each strand ends with its own finale, and the five named finales, for Andy, Kenton, Billy, Randy and Tyrone, each carry their own trophy too, so the strands feed two trophies at once.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/"]
     },
     {
       "id": 26,
@@ -340,10 +356,10 @@
       "hidden": true,
       "kind": "story",
       "missable": true,
-      "missableNote": "Final mission for Randy, a stranger strand. Treat as missable until confirmed: no mission replay at launch, so keep a manual save before the finale.",
-      "stage": 1,
-      "guide": "Complete the final mission for Randy. Work through Randy's stranger strand until the finale appears, then play it to the end. Make a manual save before the finale, since there is no mission replay at launch.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/"]
+      "missable_note": "Final mission for Randy: a one-shot stranger finale. Keep a manual save before it.",
+      "stage": 6,
+      "guide": "Complete the final mission for Randy. Play Randy's stranger strand through to its last mission and the trophy pops when it ends. Keep a manual save before the finale.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "Output Lag trophy list: https://outputlag.com/guides/gta-6-trophy-list/"]
     },
     {
       "id": 27,
@@ -353,10 +369,10 @@
       "hidden": true,
       "kind": "story",
       "missable": true,
-      "missableNote": "Final mission for Tyrone, a stranger strand. Treat as missable until confirmed: no mission replay at launch, so keep a manual save before the finale.",
-      "stage": 1,
-      "guide": "Complete the final mission for Tyrone. Follow Tyrone's stranger strand to its finale and play it through. Save manually before the finale, since stranger finales cannot be replayed at launch.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/"]
+      "missable_note": "Final mission for Tyrone: a one-shot stranger finale. Keep a manual save before it.",
+      "stage": 6,
+      "guide": "Complete the final mission for Tyrone. Play Tyrone's stranger strand through to its last mission and the trophy pops when it ends. Finishing all five named stranger finales also closes the stranger-finale set of this guide.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "Output Lag trophy list: https://outputlag.com/guides/gta-6-trophy-list/"]
     },
     {
       "id": 28,
@@ -366,12 +382,12 @@
       "hidden": false,
       "kind": "collectibles",
       "missable": true,
-      "missableNote": "Every meditation spot. CONFIRMED missable window: a Chapter 1 meditation spot can be lost after Chapter 1 ends — meditate there before finishing the chapter.",
+      "missable_note": "Every meditation spot (18 spots). The Chapter 1 spot is the one confirmed missable: visit it before finishing Chapter 1, or it can be lost.",
       "stage": 3,
-      "guide": "Meditate at all 18 meditation spots across Leonida. The one confirmed missable window in this list is here: a Chapter 1 meditation spot can be lost after Chapter 1 ends, so meditate at every spot you find in Chapter 1 before the chapter closes. After that, sweep the remaining spots region by region and meditate at each until the counter is complete.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/", "gtavicecityhub.com/achievements"]
+      "guide": "Meditate at every spot across Leonida: 18 spots in all. Most can be visited in free roam after the story, but one sits in Chapter 1 and is the one confirmed missable in the sources, so meditate there before the chapter ends. Sweep the remaining spots region by region once the map is fully open.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/", "PowerPyx GTA VI trophy guide"]
     }
-    ,
+,
     {
       "id": 29,
       "name": "Fair Game",
@@ -380,10 +396,10 @@
       "hidden": true,
       "kind": "activities",
       "missable": true,
-      "missableNote": "Unique-animal hunt for Bret. Treat as missable until confirmed: the hunt is a one-off stranger task, so keep a manual save before it.",
+      "missable_note": "Unique-animal hunt for Bret: a one-time hunt. Keep a manual save before it; no confirmed window yet.",
       "stage": 6,
-      "guide": "Hunt a unique animal for Bret. Find Bret, take the hunt, and track the animal with the hunting tools the game gives you — move slowly, watch the wind and the animal's trail, and take the shot only when it is clean. Save manually before starting the hunt, since it is a one-off stranger task with no confirmed replay.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/", "gtavicecityhub.com/achievements"]
+      "guide": "Hunt a unique animal for Bret. Bret's hunt is a single quarry, so track it, take the shot cleanly, and the trophy pops when the hunt ends. Treat it as missable until confirmed otherwise and keep a manual save before the hunt, since a failed or skipped hunt may not come back.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "Output Lag trophy list: https://outputlag.com/guides/gta-6-trophy-list/"]
     },
     {
       "id": 30,
@@ -393,10 +409,10 @@
       "hidden": false,
       "kind": "collectibles",
       "missable": false,
-      "missableNote": null,
+      "missable_note": null,
       "stage": 3,
-      "guide": "Complete 3 collectible card sets. Cards are scattered across Leonida in shops, interiors and hidden spots; each set needs its full run of cards, so collect as you explore rather than leaving them all to the end. Keep a checklist of which cards you own per set and sweep one region at a time until three sets are complete.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/"]
+      "guide": "Complete 3 Collectible Card sets. Cards are hidden across Leonida, and a finished set checks off, so you need every card of three sets, not just three cards. Hunt them region by region and trade duplicates where the game lets you; the set counter shows which sets are still short.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/"]
     },
     {
       "id": 31,
@@ -406,10 +422,10 @@
       "hidden": false,
       "kind": "collectibles",
       "missable": false,
-      "missableNote": null,
+      "missable_note": null,
       "stage": 3,
-      "guide": "Use WAiNK It at 100 locations. WAiNK spots are spread across the whole map, so this is a slow-burn collectible: hit every spot you pass while doing other things, and do a final region-by-region sweep for the last few. The in-game counter tracks how many locations you have done.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/", "gtavicecityhub.com/achievements"]
+      "guide": "WAiNK It at 100 locations. Use the WAiNK feature at 100 different spots and each new location counts once, so repeats add nothing. Work through the map methodically and WAiNK at every landmark you pass; the location counter shows how far along you are.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/"]
     },
     {
       "id": 32,
@@ -419,10 +435,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": false,
-      "missableNote": null,
+      "missable_note": null,
       "stage": 4,
-      "guide": "Complete 50 challenges. Challenges are the game's open-world task list — driving, shooting, flying and more — and they count cumulatively, so many will complete themselves while you play. Check the challenge menu regularly, pick off the easy ones first, and leave the long grinds for stage 4.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/"]
+      "guide": "Complete 50 Challenges. Challenges span combat, driving, exploration and more, and the in-game challenges list tracks your count, so work through the easiest ones first and let the harder ones fall as you play. Fifty is less than the full list, so you can skip the ones you hate.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/"]
     },
     {
       "id": 33,
@@ -432,10 +448,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": false,
-      "missableNote": null,
+      "missable_note": null,
       "stage": 4,
-      "guide": "Lose a 4-star wanted level with your partner and escape. Get your partner beside you, build the wanted level up to 4 stars, then break line of sight and hide until the stars clear — a fast car and a quiet hiding spot outside the search area work best. Do it with your partner present, or the escape does not count.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/", "PSNProfiles GTA V trophy guide — wanted-level escapes carry over as a series mechanic"]
+      "guide": "Lose a 4 star Wanted Level with your partner and escape the heat. Build a 4-star wanted level while your partner is with you, then break line of sight and stay out of the search area until it clears. Do it in open country where escape routes are wide, and keep moving so the search cone never settles on you.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/", "PSNProfiles GTA V trophy guide"]
     },
     {
       "id": 34,
@@ -445,10 +461,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": false,
-      "missableNote": null,
+      "missable_note": null,
       "stage": 4,
-      "guide": "Rob 3 shops back-to-back with your partner without losing your wanted level. Plan a route of three close shops, rob each one quickly with your partner, and keep moving between them without letting the wanted level drop — losing it between shops breaks the chain. A fast getaway car parked outside each shop helps.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/"]
+      "guide": "Rob 3 shops back-to-back with your partner without losing your Wanted Level. Hit three shops in a row with your partner beside you and keep the wanted level alive through all three: do not let it clear between robberies, and do not get caught. Pick three shops close together and plan the route before the first robbery.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/"]
     },
     {
       "id": 35,
@@ -458,10 +474,10 @@
       "hidden": false,
       "kind": "collectibles",
       "missable": false,
-      "missableNote": null,
+      "missable_note": null,
       "stage": 3,
-      "guide": "Discover 100 vehicles. A vehicle counts when you first get in it, so hop into every new car, bike, truck and boat you see as you travel — variety matters more than ownership. Driving through busy areas and car parks is the fastest way to meet new models, and the counter tracks your total.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/"]
+      "guide": "Discover 100 vehicles. Every new vehicle you enter or spot counts once, so the count climbs naturally as you explore, and faster if you tour dealerships, traffic and parked cars across the map. Rare and mission-only vehicles count too, so keep an eye out during story missions.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/"]
     },
     {
       "id": 36,
@@ -471,10 +487,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": false,
-      "missableNote": null,
+      "missable_note": null,
       "stage": 4,
-      "guide": "Take down 5 enemies in a single use of Combat Focus. Find a spot with at least five enemies grouped together, trigger Combat Focus, and chain your shots through all five before the focus ends. If you only get four, reload and try a busier fight — the count must be five in one use.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/", "gtavicecityhub.com/achievements"]
+      "guide": "Take down 5 enemies in a single use of Combat Focus. Trigger Combat Focus with at least five enemies in range and drop all five before it ends. Pick a fight with a group, such as a gang hideout or a wanted-level shootout, and line the shots up before you trigger it.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/"]
     },
     {
       "id": 37,
@@ -484,10 +500,10 @@
       "hidden": true,
       "kind": "activities",
       "missable": true,
-      "missableNote": "Unscheduled departure at VCIA (Vice City airport). Treat as missable until confirmed: a one-off moment, so keep a manual save before attempting it.",
+      "missable_note": "Unscheduled departure at VCIA: a one-time airport moment. Keep a manual save before trying it; no confirmed window yet.",
       "stage": 6,
-      "guide": "Make an unscheduled departure at VCIA, the Vice City airport. Get a plane on the runway and take off without a scheduled flight — the game counts the departure itself, not a destination. Save manually before you try it, since it is a one-off moment with no confirmed replay.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/"]
+      "guide": "Make an unscheduled departure at VCIA, Vice City International Airport. Leave the airport in an unscheduled way and the trophy pops. It is a single moment at the airport, so keep a manual save before you try it, in case the departure does not register.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "Output Lag trophy list: https://outputlag.com/guides/gta-6-trophy-list/"]
     },
     {
       "id": 38,
@@ -497,12 +513,11 @@
       "hidden": true,
       "kind": "activities",
       "missable": false,
-      "missableNote": null,
+      "missable_note": null,
       "stage": 6,
-      "guide": "Deal with Rhinos — the tanks — until this trophy pops. Rhinos appear when the wanted level is at its highest, so build up heat in an open area, then survive the tank encounter: keep moving, use cover and explosives, and do not try to fight one head-on in a normal car. The trophy is about the Rhino encounter itself, not about owning a tank.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/", "gtavicecityhub.com/achievements"]
-    }
-    ,
+      "guide": "Deal with Rhino tanks. Rhinos roll out at high wanted levels, so raise the heat until one appears, then engage it: steal it or destroy it and the trophy pops. This one is repeatable, unlike the one-off hidden moments, so there is no missable window to worry about.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "Output Lag trophy list: https://outputlag.com/guides/gta-6-trophy-list/"]
+    },
     {
       "id": 39,
       "name": "Sneakthief",
@@ -511,10 +526,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": false,
-      "missableNote": null,
+      "missable_note": null,
       "stage": 4,
-      "guide": "Rob a jewelry store without being detected. Case the store first, move quietly, take the goods and leave before any alarm or witness spots you — detection at any point fails the run, so retry if you are seen. Go in at a quiet hour and keep your exit route planned before you start.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/"]
+      "guide": "Rob a jewelry store without being detected. Go in quiet: no alarms and no witness spotting you. Plan the approach, move slowly, take the goods and leave before anyone raises the alarm. If you are spotted, back out and try another store.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/", "PowerPyx GTA V trophy guide"]
     },
     {
       "id": 40,
@@ -524,10 +539,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": false,
-      "missableNote": null,
+      "missable_note": null,
       "stage": 4,
-      "guide": "Rob 5 bank vaults and escape each time. Each vault is a planned robbery: crack the vault, grab the cash, and get clear of the police before the escape counts. Repeat at five different vaults — the same vault twice does not add to the count — and keep a fast car ready for every getaway.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/", "gtavicecityhub.com/achievements"]
+      "guide": "Rob 5 Bank Vaults and escape. Hit five bank vaults and get away clean each time. Plan an escape route before each robbery, bring a fast car, and break the wanted level after every hit; the count only grows on a clean escape.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/"]
     },
     {
       "id": 41,
@@ -537,10 +552,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": false,
-      "missableNote": null,
+      "missable_note": null,
       "stage": 4,
-      "guide": "Rob an armored truck and escape. Armored trucks drive set routes around the city: stop one, crack it open, take the cash, and lose the police. A sticky bomb or a hard ram stops the truck fastest; park your getaway car nearby before you strike.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/", "PSNProfiles GTA V trophy guide — armored truck robberies carry over as a series mechanic"]
+      "guide": "Rob an Armored Truck and escape. Ambush an armored truck on the road, crack it open, grab the cash and escape with it. Trucks run set routes, so watch one first, pick a quiet stretch of road, and have a getaway car ready.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/", "PowerPyx GTA V trophy guide"]
     },
     {
       "id": 42,
@@ -550,11 +565,12 @@
       "hidden": false,
       "kind": "collectibles",
       "missable": false,
-      "missableNote": null,
+      "missable_note": null,
       "stage": 3,
-      "guide": "Explore all 52 areas of Leonida. The counter ticks up as you enter each named area, so drive and fly across the whole map — Vice City, the beaches, the swamps and the small towns — until every area has been visited. Check the map for grey, unvisited regions and sweep them one at a time in stage 3.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/"]
-    },
+      "guide": "Explore all of Leonida: 52 areas. Visit every named area on the map and the in-game map tracks which ones you have seen. Tour the state methodically, region by region, and the last unvisited area is usually a small corner you drove past without noticing.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/"]
+    }
+,
     {
       "id": 43,
       "name": "Pest Control",
@@ -563,10 +579,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": false,
-      "missableNote": null,
+      "missable_note": null,
       "stage": 4,
-      "guide": "Rob an illegal operation belonging to each of the 9 gangs. Each gang runs its own illegal operations on the map; rob one per gang, nine in total, and the trophy pops. Mark each gang off as you go so you do not rob the same gang twice.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/", "gtavicecityhub.com/achievements"]
+      "guide": "Rob an Illegal Operation belonging to each gang: 9 gangs. Hit one illegal operation per gang. Each gang's operations are marked once you find them, so work through the list gang by gang and clear the map markers as you go.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/"]
     },
     {
       "id": 44,
@@ -576,10 +592,10 @@
       "hidden": true,
       "kind": "activities",
       "missable": true,
-      "missableNote": "One-off moment on Ocean Beach. Treat as missable until confirmed: no confirmed window yet — keep a manual save before trying it.",
+      "missable_note": "Ocean Beach cocktail: a one-time moment. No confirmed window yet; do it when you pass through and keep a manual save.",
       "stage": 6,
-      "guide": "Enjoy a cocktail with a view on Ocean Beach. Head to a beach bar on Ocean Beach, order a cocktail, and take in the view — the trophy is a single quiet moment, not a mission. No confirmed window exists for it yet, so make a manual save before you try it and do it early, in stage 6 cleanup at the latest.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/"]
+      "guide": "Enjoy a cocktail with a view on Ocean Beach. Sit down for a drink at an Ocean Beach spot with a view and the trophy pops. It is a single quiet moment, so do it when you pass through the area rather than leaving it for the endgame.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "Output Lag trophy list: https://outputlag.com/guides/gta-6-trophy-list/"]
     },
     {
       "id": 45,
@@ -589,10 +605,10 @@
       "hidden": true,
       "kind": "activities",
       "missable": true,
-      "missableNote": "One-off moment in a vehicle showroom. Treat as missable until confirmed: no confirmed window yet — keep a manual save before trying it.",
+      "missable_note": "Vehicle showroom smash: a one-time moment. Keep a manual save before trying it; no confirmed window yet.",
       "stage": 6,
-      "guide": "Smash your way out of a vehicle showroom in classic style. Drive a car into a showroom, then smash straight back out through the glass — the trophy is the stunt itself, in the spirit of the classic showroom smash. Save manually before you try it, since no confirmed window exists for this moment yet.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/", "PSNProfiles GTA V trophy guide — showroom smash carries over as a series mechanic"]
+      "guide": "Smash your way out of a vehicle showroom in classic style. Drive out through the showroom glass and the trophy pops. It is a single stunt moment, so keep a manual save before you try it, in case the smash does not register.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "Output Lag trophy list: https://outputlag.com/guides/gta-6-trophy-list/"]
     },
     {
       "id": 46,
@@ -602,10 +618,10 @@
       "hidden": true,
       "kind": "activities",
       "missable": true,
-      "missableNote": "One-off moment at the Kolt & Associates bowling alley. Treat as missable until confirmed: no confirmed window yet — keep a manual save before trying it.",
+      "missable_note": "Kolt & Associates bowling alley follow-through: a one-time moment. No confirmed window yet; keep a manual save.",
       "stage": 6,
-      "guide": "Follow through at the Kolt & Associates bowling alley. Go bowling there and complete the follow-through the trophy describes — bowl properly, watch the follow-through, and the trophy pops on the moment itself. Save manually beforehand, since no confirmed window exists for it yet.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/"]
+      "guide": "Follow-through at the Kolt & Associates' bowling alley. Play a frame at the alley and follow through on the shot and the trophy pops. Go when you are near the alley rather than saving it for a special trip.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "Output Lag trophy list: https://outputlag.com/guides/gta-6-trophy-list/"]
     },
     {
       "id": 47,
@@ -615,10 +631,10 @@
       "hidden": true,
       "kind": "activities",
       "missable": true,
-      "missableNote": "One-off partnership moment. Treat as missable until confirmed: no confirmed window yet — keep a manual save before trying it.",
+      "missable_note": "Partnership moment: a one-time moment. No confirmed window yet; keep a manual save around partnership scenes.",
       "stage": 6,
-      "guide": "Trigger the partnership moment with mass appeal. It is a single scene tied to a partnership in the game; play through the partnership content and the moment lands on its own. Because no confirmed window exists for it yet, keep a manual save before any partnership scene you have not seen.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/"]
+      "guide": "A partnership with mass appeal. This is a single story-adjacent moment tied to a partnership, so keep a manual save around partnership scenes and play them through rather than skipping ahead. The trophy pops when the moment lands.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "Output Lag trophy list: https://outputlag.com/guides/gta-6-trophy-list/"]
     },
     {
       "id": 48,
@@ -628,12 +644,11 @@
       "hidden": true,
       "kind": "activities",
       "missable": true,
-      "missableNote": "Choices made across the game. Treat as missable until confirmed: no confirmed window yet — keep a manual save before major choices.",
+      "missable_note": "Choices made: PSNProfiles lists a count running to 500. No confirmed window yet; keep a manual save.",
       "stage": 6,
-      "guide": "Make choices across the game — the description tracks choices made, for better or worse, and PSN tracks a count up to 500. Keep playing and choosing: story decisions, stranger choices and open-world calls all add up. Before any major choice, make a manual save, since choices cannot be undone and no confirmed window exists for the count.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/"]
-    }
-    ,
+      "guide": "Choices made (for better or worse). The trophy tracks choices across the game, and PSNProfiles lists a count running to 500. Make choices as you play, in the story and in side content, and the count climbs until the trophy pops.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "Output Lag trophy list: https://outputlag.com/guides/gta-6-trophy-list/"]
+    },
     {
       "id": 49,
       "name": "Bad Luck, I Guess",
@@ -642,10 +657,10 @@
       "hidden": true,
       "kind": "activities",
       "missable": true,
-      "missableNote": "One-off moment: succeeding on a second try. Treat as missable until confirmed: no confirmed window yet — keep a manual save before retrying a failed attempt.",
+      "missable_note": "Second try success: a one-time moment. No confirmed window yet; keep a manual save.",
       "stage": 6,
-      "guide": "Succeed on a second try — second time's the charm. This trophy is about failing something once and then nailing it on the immediate retry. When an attempt fails, do not reload an old save: try again right away and finish it on the second attempt. Save manually before risky attempts so a second try is always available.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/"]
+      "guide": "Second time's the charm. Fail something once, then succeed on the second try, and the trophy pops on the retry success. If a retry opportunity comes up, take it instead of reloading an old save.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "Output Lag trophy list: https://outputlag.com/guides/gta-6-trophy-list/"]
     },
     {
       "id": 50,
@@ -655,10 +670,10 @@
       "hidden": true,
       "kind": "activities",
       "missable": true,
-      "missableNote": "One-off unexplained event. Treat as missable until confirmed: no confirmed window yet — keep a manual save and explore odd sights when you find them.",
+      "missable_note": "Unexplained event: a one-time moment. No confirmed window yet; keep a manual save.",
       "stage": 6,
-      "guide": "Witness the unexplained event the description hints at — something strange enough to make you ask what just happened. These moments hide in odd corners of Leonida, so explore unusual sights and events as you find them instead of walking past. No confirmed window exists yet, so keep a manual save before investigating anything strange.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/", "gtavicecityhub.com/achievements"]
+      "guide": "What the hell just happened? Witness something strange, an unexplained event somewhere in Leonida. Keep exploring the odd corners of the map, the places that look out of place, and the moment finds you when you stumble into it.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "Output Lag trophy list: https://outputlag.com/guides/gta-6-trophy-list/"]
     },
     {
       "id": 51,
@@ -668,10 +683,10 @@
       "hidden": true,
       "kind": "activities",
       "missable": true,
-      "missableNote": "One-off moment: a melee drive-by that bowls someone over. Treat as missable until confirmed: no confirmed window yet — keep a manual save before trying it.",
+      "missable_note": "Melee drive-by: a one-time moment. No confirmed window yet; keep a manual save.",
       "stage": 6,
-      "guide": "Bowl someone over with a melee drive-by: drive past on a vehicle and land a melee hit that knocks them down like a bowling pin. Pick a slow, straight stretch with a pedestrian target, line the pass up, and swing as you pass. Save manually before trying it, since no confirmed window exists for this moment yet.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/"]
+      "guide": "Bowl 'em over with a melee drive-by. Knock someone down with a melee attack from a moving vehicle: a drive-by with a melee weapon, not a gun. Line the pass up on a quiet street and swing as you roll past.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "Output Lag trophy list: https://outputlag.com/guides/gta-6-trophy-list/"]
     },
     {
       "id": 52,
@@ -681,10 +696,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": false,
-      "missableNote": null,
+      "missable_note": null,
       "stage": 5,
-      "guide": "Earn $250,000 laundering marked bills through your contacts. Marked bills come from robberies and heists; take them to your contacts to launder them into clean money, and the total counts cumulatively toward $250,000. Keep robbing and laundering in stage 5 and the trophy pops when the laundered total hits the mark.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/", "gtavicecityhub.com/achievements"]
+      "guide": "Earn $250,000 laundering Marked Bills through your contacts. Feed marked bills to your contacts until $250,000 is laundered. Bank jobs and robberies pay in marked bills, so launder them steadily as you earn them rather than stockpiling them for one go.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/"]
     },
     {
       "id": 53,
@@ -694,10 +709,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": false,
-      "missableNote": null,
+      "missable_note": null,
       "stage": 5,
-      "guide": "Spend $100,000 across all shops. Spending counts cumulatively in every shop — clothes, weapons, cars, food — so buy what you actually need as you play and the total climbs on its own. Near the end of stage 5, top the total up with a big purchase such as a vehicle or weapon if you are still short.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/"]
+      "guide": "Spend $100,000 across all shops. Cars, clothes, weapons and property purchases all count, so it comes naturally by the endgame. If you fall short, top it up with one big purchase, such as a car or a property, rather than nickel-and-diming small shops.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/"]
     },
     {
       "id": 54,
@@ -707,10 +722,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": false,
-      "missableNote": null,
+      "missable_note": null,
       "stage": 5,
-      "guide": "Purchase all 8 garage properties. Garages go on sale as you earn money and progress; buy each one when it appears and keep the cash ready — the trophy needs every garage, not just most of them. The last garage is usually the most expensive, so save for it in stage 5.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/"]
+      "guide": "Purchase all garage properties: 8 garages. Buy every garage property on the market. Garages also store the vehicles you register, so buy them before the vehicle-collection push and use them as your home base for it.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/"]
     },
     {
       "id": 55,
@@ -720,60 +735,10 @@
       "hidden": false,
       "kind": "activities",
       "missable": false,
-      "missableNote": null,
+      "missable_note": null,
       "stage": 5,
-      "guide": "Register 10 vehicles to the Scooter Bros app. Find ten different vehicles, open the Scooter Bros app, and register each one — any ten vehicles count, so use the varied cars and bikes you meet while exploring. Register them as you discover them in stage 5 and the trophy pops on the tenth.",
-      "sources": ["Exophase / PSNProfiles — official trophy list", "planetgta6.com/en/gta-6-trophies/", "outputlag.com/guides/gta-6-trophy-list/", "gtavicecityhub.com/achievements"]
+      "guide": "Register 10 vehicles to the Scooter Bros app. Register ten vehicles you own in the app. Discovering vehicles feeds this, 100 discovered for Whip It Good and ten registered here, so register the keepers as you find them instead of leaving it all for the end.",
+      "sources": ["Exophase PS5 trophy listing", "PSNProfiles PS5 trophy listing", "PlanetGTA6 trophy page: https://planetgta6.com/en/gta-6-trophies/"]
     }
-  ],
-  "roadmap": [
-    {
-      "stage": 1,
-      "title": "Story — Chapters 1 to 4 and the final mission",
-      "order": "Play the opening mission, then Chapters 1, 2, 3 and 4 in order, then the final mission. Do the six named story missions and the five stranger finales as they appear in the story flow.",
-      "trophies": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 22, 23, 24, 26, 27],
-      "advice": "Keep a manual save at the start of every chapter and one before the final mission. The game has no mission replay and no New Game Plus at launch, so a missed one-off story moment cannot be redone. The Chapter 1 meditation spot can be lost after Chapter 1 — meditate there first."
-    },
-    {
-      "stage": 2,
-      "title": "100% completion gold",
-      "order": "After the story, work toward 100% completion using the in-game stats screen as your checklist.",
-      "trophies": [14],
-      "advice": "Rockstar has not spelled out what 100% completion covers, so do not invent a checklist: finish the story, then clear the stranger strands, collectibles and activities in this guide and watch the in-game completion counter."
-    },
-    {
-      "stage": 3,
-      "title": "Collectibles",
-      "order": "Meditation spots, then card sets, WAiNK locations, vehicles discovered, and exploring all of Leonida.",
-      "trophies": [28, 30, 31, 35, 42],
-      "advice": "Collect as you explore: 18 meditation spots, 3 card sets, WAiNK at 100 locations, 100 vehicles discovered, all 52 areas of Leonida. Sweep region by region so nothing is left for a final hunt."
-    },
-    {
-      "stage": 4,
-      "title": "Activities",
-      "order": "Try every activity type once, then stunts, shooting range golds, drone races, races, fishing, arcade, stranger strands, challenges, partner crimes, combat and robberies.",
-      "trophies": [15, 16, 17, 18, 19, 20, 21, 25, 32, 33, 34, 36, 39, 40, 41, 43],
-      "advice": "Counts that matter: 250 stunts, gold in all 42 Shooting Range challenges, a drone race won at all 14 locations, 20 different races won, 8 stranger strands, 50 challenges, 5 enemies in one Combat Focus, 5 bank vaults, one illegal operation per gang (9 gangs)."
-    },
-    {
-      "stage": 5,
-      "title": "Money and property",
-      "order": "Launder marked bills, spend in shops, buy garages, register vehicles — in any order, as the money comes in.",
-      "trophies": [52, 53, 54, 55],
-      "advice": "Counts that matter: $250,000 laundered, $100,000 spent, all 8 garages bought, 10 vehicles registered to the Scooter Bros app."
-    },
-    {
-      "stage": 6,
-      "title": "Cleanup — missables, one-offs, and the platinum",
-      "order": "Sweep the one-off hidden moments and the hunts, then the platinum pops.",
-      "trophies": [1, 29, 37, 38, 44, 45, 46, 47, 48, 49, 50, 51],
-      "advice": "Check every missable flag in the Missables section before you finish: the unique-animal hunt, the VCIA departure, the Rhino encounter, and the eight one-off hidden moments. When all 54 others are earned, Vice Got a Price! pops."
-    }
-  ],
-  "notes": {
-    "online": "There are no online trophies: every trophy is single-player. Source: planetgta6.com/en/gta-6-trophies/ and outputlag.com/guides/gta-6-trophy-list/.",
-    "cheats": "Cheats disable trophies. Source: PowerPyx GTA V trophy guide; Rockstar Support confirmed the same rule for GTA V.",
-    "time": "The story alone takes around 60 hours and the platinum is long, not hard — roughly 200 hours is the press estimate. Sources: reviews cited by the trophy press, planetgta6.com/en/gta-6-trophies/ and outputlag.com/guides/gta-6-trophy-list/.",
-    "noReplay": "The game has no mission replay and no New Game Plus at launch. Source: leonidahub.org/en/news/gta-vi-reportedly-has-55-ps5-trophies-platinum-included-as-xbox-and-playstation-data-line-up."
-  }
+  ]
 }
